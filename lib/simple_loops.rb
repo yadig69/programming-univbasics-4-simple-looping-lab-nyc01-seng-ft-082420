@@ -1,8 +1,8 @@
 # Write your methods here
-def loop_message_five_times(message)
-  count = 0
+def loops_message_five_times(massage)
+  count = 0 
   while count < 5 do
-    puts message
-    count += 1
-  end
+    puts massage
+  count += 1 
+end
 end
