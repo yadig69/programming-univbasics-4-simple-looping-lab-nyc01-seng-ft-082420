@@ -2,7 +2,7 @@
 def method+name(parameter)
   count = 0 
   while count < 5 do
-    puts message
+    puts array[count]
   count += 1 
 end
 end
