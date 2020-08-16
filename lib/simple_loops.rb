@@ -1,5 +1,5 @@
 # Write your methods here
-def method+name(parameter)
+def loops_message_five_times(parameter)
   count = 0 
   while count < 5 do
     puts array[count]
